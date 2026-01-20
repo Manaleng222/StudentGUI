@@ -96,3 +96,31 @@ Alternatively, from the command line (if Ant is installed):
 ant clean build
 ```
 
+## ▶️ Run the Application
+
+- Locate and run the main class (e.g., `Main.java`)
+- Or execute the compiled JAR file if a build artifact exists
+
+---
+
+## 📸 Screenshots
+
+*(Add your own screen captures here to showcase your application — example placeholders below)*
+
+![Main Window](./screenshots/main_window.png)  
+![Add Student Form](./screenshots/add_student.png)
+
+---
+
+## 🤝 Author
+Tshediso Tshepiso Manaleng
+
+
+
+---
+
+## 📄 License
+
+licensed under the **MIT License**.
+
+
