@@ -18,7 +18,13 @@ A **Java Swing GUI Application** for managing student details — clean, simple,
 
 ## 📁 Project Structure
 
-
+StudentGUI/
+├── src/studentgui/ # Java source code
+├── build/ # Compiled classes
+├── nbproject/ # NetBeans configuration
+├── .idea/ # IntelliJ project configuration
+├── build.xml # Ant build file
+└── manifest.mf # Project metadata
 ---
 
 ## 🛠 Technologies Used
