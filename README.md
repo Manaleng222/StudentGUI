@@ -66,4 +66,27 @@ Remove student entries you no longer need with a single click.
    git clone https://github.com/Manaleng222/StudentGUI.git
    ```
    
+---
+
+## 📥 Installation & Setup
+
+### Open with Your IDE
+
+Open the project folder in one of the following IDEs:
+
+- **NetBeans**
+- **IntelliJ IDEA**
+- **Eclipse**
+
+---
+
+## 🛠 Build the Project
+
+You can build the application using your IDE’s build tools.
+
+Alternatively, from the command line (if Ant is installed):
+
+```bash
+ant clean build
+```
 
