@@ -107,8 +107,9 @@ ant clean build
 
 *(Add your own screen captures here to showcase your application — example placeholders below)*
 
-![Main Window](./screenshots/main_window.png)  
-![Add Student Form](./screenshots/add_student.png)
+![Main Window](./screenshots/<img width="973" height="746" alt="image" src="https://github.com/user-attachments/assets/9b8f6dd8-2328-43f3-a304-de5ee2682ce1" />
+)  
+
 
 ---
 
